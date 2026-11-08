@@ -200,3 +200,6 @@ This repository serves as the official landing page for HijackThis. The software
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HijackThis today!**
+
+---
+**Last updated:** 2026-11-08 12:34:01 UTC
